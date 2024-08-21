@@ -1,0 +1,266 @@
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.exe
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.deps.json
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.runtimeconfig.json
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CDatos.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CDatos.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CEntidades.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.csproj.AssemblyReference.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.Form1.resources
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.csproj.GenerateResource.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.AssemblyInfoInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.AssemblyInfo.cs
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresent.4B0AE988.Up2Date
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\refint\CPresentacion.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.genruntimeconfig.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\ref\CPresentacion.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.exe
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.deps.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.runtimeconfig.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CDatos.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CEntidades.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CDatos.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CEntidades.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.csproj.AssemblyReference.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.Form1.resources
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.csproj.GenerateResource.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.AssemblyInfoInputs.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.AssemblyInfo.cs
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.csproj.CoreCompileInputs.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.sourcelink.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresent.4B0AE988.Up2Date
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\refint\CPresentacion.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.genruntimeconfig.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\ref\CPresentacion.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.exe
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.deps.json
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.runtimeconfig.json
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CPresentacion.pdb
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CDatos.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CDatos.pdb
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\bin\Debug\net8.0-windows\CEntidades.pdb
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.csproj.AssemblyReference.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.Form1.resources
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.csproj.GenerateResource.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.AssemblyInfoInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.AssemblyInfo.cs
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.sourcelink.json
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresent.4B0AE988.Up2Date
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\refint\CPresentacion.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.pdb
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.genruntimeconfig.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CPresentacion\obj\Debug\net8.0-windows\ref\CPresentacion.dll

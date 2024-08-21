@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE389FBE-7BF7-4664-84D2-AF2B1EB9FBCA}|CLogica\\CLogica.csproj|C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\clogica\\implementations\\personalogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE389FBE-7BF7-4664-84D2-AF2B1EB9FBCA}|CLogica\\CLogica.csproj|solutionrelative:clogica\\implementations\\personalogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCB39C5-8616-4BAB-9ED8-6EDF90903FD4}|CEntidades\\CEntidades.csproj|C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\centidades\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCB39C5-8616-4BAB-9ED8-6EDF90903FD4}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE389FBE-7BF7-4664-84D2-AF2B1EB9FBCA}|CLogica\\CLogica.csproj|c:\\users\\luis maria gomez\\desktop\\github desktop\\grupo-1\\keproyecto_grupo1\\clogica\\contracts\\ialtaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE389FBE-7BF7-4664-84D2-AF2B1EB9FBCA}|CLogica\\CLogica.csproj|solutionrelative:clogica\\contracts\\ialtaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE389FBE-7BF7-4664-84D2-AF2B1EB9FBCA}|CLogica\\CLogica.csproj|c:\\users\\luis maria gomez\\desktop\\github desktop\\grupo-1\\keproyecto_grupo1\\clogica\\implementations\\empleadologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE389FBE-7BF7-4664-84D2-AF2B1EB9FBCA}|CLogica\\CLogica.csproj|solutionrelative:clogica\\implementations\\empleadologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8225EBF5-EBFA-4E07-A40E-4F31831C375B}|CPresentacion\\CPresentacion.csproj|C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\cpresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8225EBF5-EBFA-4E07-A40E-4F31831C375B}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8225EBF5-EBFA-4E07-A40E-4F31831C375B}|CPresentacion\\CPresentacion.csproj|C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\cpresentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8225EBF5-EBFA-4E07-A40E-4F31831C375B}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCB39C5-8616-4BAB-9ED8-6EDF90903FD4}|CEntidades\\CEntidades.csproj|C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\centidades\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCB39C5-8616-4BAB-9ED8-6EDF90903FD4}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8225EBF5-EBFA-4E07-A40E-4F31831C375B}|CPresentacion\\CPresentacion.csproj|C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\cpresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8225EBF5-EBFA-4E07-A40E-4F31831C375B}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCB39C5-8616-4BAB-9ED8-6EDF90903FD4}|CEntidades\\CEntidades.csproj|C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\centidades\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCB39C5-8616-4BAB-9ED8-6EDF90903FD4}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8225EBF5-EBFA-4E07-A40E-4F31831C375B}|CPresentacion\\CPresentacion.csproj|C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\cpresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8225EBF5-EBFA-4E07-A40E-4F31831C375B}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAltaEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CLogica\\Contracts\\IAltaEntidad.cs",
+              "RelativeDocumentMoniker": "CLogica\\Contracts\\IAltaEntidad.cs",
+              "ToolTip": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CLogica\\Contracts\\IAltaEntidad.cs",
+              "RelativeToolTip": "CLogica\\Contracts\\IAltaEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:02:52.912Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CEntidades\\Entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CEntidades\\Entidades\\Empleado.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:26:15.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CLogica\\Implementations\\PersonaLogic.cs",
+              "RelativeDocumentMoniker": "CLogica\\Implementations\\PersonaLogic.cs",
+              "ToolTip": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CLogica\\Implementations\\PersonaLogic.cs",
+              "RelativeToolTip": "CLogica\\Implementations\\PersonaLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:18:22.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CEntidades\\Entidades\\Persona.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Persona.cs",
+              "ToolTip": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CEntidades\\Entidades\\Persona.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:53:23.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CEntidades\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "CEntidades\\Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CEntidades\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "CEntidades\\Entidades\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:55:09.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CPresentacion\\Form1.cs [Design]",
+              "RelativeToolTip": "CPresentacion\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:18:12.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CPresentacion\\Form1.cs",
+              "RelativeToolTip": "CPresentacion\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:18:28.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CPresentacion\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CPresentacion\\Form1.Designer.cs",
+              "RelativeToolTip": "CPresentacion\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:18:07.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CPresentacion\\Program.cs",
+              "RelativeToolTip": "CPresentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:31:16.475Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CLogica\\Implementations\\EmpleadoLogic.cs",
+              "RelativeDocumentMoniker": "CLogica\\Implementations\\EmpleadoLogic.cs",
+              "ToolTip": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CLogica\\Implementations\\EmpleadoLogic.cs",
+              "RelativeToolTip": "CLogica\\Implementations\\EmpleadoLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:17:04.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

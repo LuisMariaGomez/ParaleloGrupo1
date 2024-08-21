@@ -1,0 +1,53 @@
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.deps.json
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.runtimeconfig.json
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CEntidades.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.csproj.AssemblyReference.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.AssemblyInfoInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.AssemblyInfo.cs
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.csproj.CoreCompileInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.csproj.Up2Date
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\refint\CDatos.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.genruntimeconfig.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\ref\CDatos.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.deps.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.runtimeconfig.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CEntidades.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CEntidades.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.csproj.AssemblyReference.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.AssemblyInfoInputs.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.AssemblyInfo.cs
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.csproj.CoreCompileInputs.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.sourcelink.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.csproj.Up2Date
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\refint\CDatos.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.genruntimeconfig.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\ref\CDatos.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.deps.json
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.runtimeconfig.json
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CDatos.pdb
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\bin\Debug\net8.0-windows\CEntidades.pdb
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.csproj.AssemblyReference.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.AssemblyInfoInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.AssemblyInfo.cs
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.csproj.CoreCompileInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.sourcelink.json
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.csproj.Up2Date
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\refint\CDatos.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.pdb
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\CDatos.genruntimeconfig.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CDatos\obj\Debug\net8.0-windows\ref\CDatos.dll
