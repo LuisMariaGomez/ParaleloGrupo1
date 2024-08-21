@@ -1,0 +1,32 @@
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\bin\Debug\net8.0-windows\CLogica.deps.json
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\bin\Debug\net8.0-windows\CLogica.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\bin\Debug\net8.0-windows\CLogica.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.AssemblyInfoInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.AssemblyInfo.cs
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.csproj.CoreCompileInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\refint\CLogica.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\ref\CLogica.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\bin\Debug\net8.0-windows\CLogica.deps.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\bin\Debug\net8.0-windows\CLogica.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\bin\Debug\net8.0-windows\CLogica.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.AssemblyInfoInputs.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.AssemblyInfo.cs
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.csproj.CoreCompileInputs.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.sourcelink.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\refint\CLogica.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\ref\CLogica.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.csproj.AssemblyReference.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.AssemblyInfoInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.AssemblyInfo.cs
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.csproj.CoreCompileInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.sourcelink.json
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\refint\CLogica.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CLogica\obj\Debug\net8.0-windows\CLogica.pdb

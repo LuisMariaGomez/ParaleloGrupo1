@@ -1,0 +1,41 @@
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.deps.json
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.runtimeconfig.json
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.AssemblyInfoInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.AssemblyInfo.cs
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\refint\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.pdb
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.genruntimeconfig.cache
+C:\Users\Luis Maria Gomez\Desktop\PoyectoPracticaProf\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\ref\CEntidades.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.deps.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.runtimeconfig.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.AssemblyInfoInputs.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.AssemblyInfo.cs
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.csproj.CoreCompileInputs.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.sourcelink.json
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\refint\CEntidades.dll
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.pdb
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.genruntimeconfig.cache
+C:\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\ref\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.deps.json
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.runtimeconfig.json
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\bin\Debug\net8.0-windows\CEntidades.pdb
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.AssemblyInfoInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.AssemblyInfo.cs
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.sourcelink.json
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\refint\CEntidades.dll
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.pdb
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\CEntidades.genruntimeconfig.cache
+C:\Users\Luis Maria Gomez\Desktop\github\Grupo-1\KeProyecto_Grupo1\CEntidades\obj\Debug\net8.0-windows\ref\CEntidades.dll
