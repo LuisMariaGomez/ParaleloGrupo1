@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E2qGAOdnTNjWFzZY5vZonq38wSpahLU6jyErHb1WrULHMlZysFHhiPiCZWQMr8qucDqeoYKZxodAVFL5e1FiGw==",
+  "dgSpecHash": "+Qy2sbJ81aOWSDOwMo2wB+QPFFcFWoj8YVVhxohJr6yS2AUPTKPzqAI1WZqw5Xlr/qJA8ehWuIR7xY05T7OY0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CDatos\\CDatos.csproj",
+  "projectFilePath": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\ParaleloGrupo1\\KeProyecto_Grupo1\\CDatos\\CDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis Maria Gomez\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Luis Maria Gomez\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

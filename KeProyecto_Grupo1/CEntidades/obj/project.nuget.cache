@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ftbYqLQWRdPv5i+vNhI5lzJiinBJkiKOV4OQetQKPMfcC11kmgUNoGpuF556drjryG5ad0Bp4cUy2mvydHn7GQ==",
+  "dgSpecHash": "Mp6Nf5rO9Q0iBUFQd4wfy3UxYjMZ45VGBI4gJYVQe8UikQTSyfnLKebNEBVbyZ3C5nFrC2hS97/IovhO2xZiSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CEntidades\\CEntidades.csproj",
+  "projectFilePath": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\ParaleloGrupo1\\KeProyecto_Grupo1\\CEntidades\\CEntidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis Maria Gomez\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Luis Maria Gomez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

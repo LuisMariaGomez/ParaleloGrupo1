@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "twEamqp2FJCy3GClEmfLDZmHISSSXKJx8CVksTHbwq3zrD2pqF7vjXRafn/nE3HVWsMsFnXdWiRrOm+DYzX3DQ==",
+  "dgSpecHash": "U70CNcC9nX3kYo11V+Qo/eISV+MJOWoUEWsF2D3UxfIISAKMlqJBvRKlZ+XFbQPIeL76l8D+gYhMwbLwSd2s8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\Grupo-1\\KeProyecto_Grupo1\\CLogica\\CLogica.csproj",
+  "projectFilePath": "C:\\Users\\Luis Maria Gomez\\Desktop\\Github Desktop\\ParaleloGrupo1\\KeProyecto_Grupo1\\CLogica\\CLogica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis Maria Gomez\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Luis Maria Gomez\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
